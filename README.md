@@ -1,5 +1,5 @@
 # Pinboard Cleaner
-## JSON to Markdown
+JSON to Markdown converter.
 
 Given [recent posts](https://mastodon.social/@alexcox/112916413641632058) from the creator of pinboard, I'll be moving on.
 
