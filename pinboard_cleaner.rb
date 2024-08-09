@@ -1,16 +1,6 @@
 require 'json'
 
 # Read pinboard.json and convert to markdown
-# Pinboard json format:
-# {"href"=>"http://justinlamb.org/",
-# "description"=>"Link Title",
-# "extended"=>"longer description",
-# "meta"=>"key",
-# "hash"=>"key",
-# "time"=>"2010-08-31T03:51:53Z",
-# "shared"=>"no",
-# "toread"=>"no",
-# "tags"=>"email productivity"}]
 class PinboardCleaner
   def initialize
     @pinboard = parse_json(ARGV[0])
