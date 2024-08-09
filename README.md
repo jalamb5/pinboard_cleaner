@@ -1,6 +1,8 @@
-# Pinboard JSON to Markdown
+# Pinboard Cleaner
+## JSON to Markdown
 
 Given [recent posts](https://mastodon.social/@alexcox/112916413641632058) from the creator of pinboard, I'll be moving on.
+
 While other services like [Raindrop.io](http://raindrop.io) are able to easily import from pinboard, I've decided to just move my bookmarks to Obsidian for the time being.
 
 ## What it does
