@@ -29,5 +29,5 @@ Additionally, I've stripped any tags which include 'via:' indicating they were c
 
 ## Usage
 - clone repo
-- run: ruby pinboard_cleaner.rb ~/path/to/file.json
+- run: `ruby pinboard_cleaner.rb ~/path/to/file.json`
 
